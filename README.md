@@ -268,8 +268,8 @@ The system architecture is designed to facilitate a streamlined flow from data c
 
 
 ## Contributors
-- Nithish Kumar Senthil Kumar
 - Subhiksha Murugesan
+- Nithish Kumar Senthil Kumar
 - Rishikesh Ramesh
 - Rishi Manohar
 - Nagul Pandian
