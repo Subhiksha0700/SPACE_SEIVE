@@ -1,0 +1,1 @@
+python yolov5/train.py --img 320 --batch 16 --epochs 1 --data data.yaml --cfg yolov5m.yaml --weights yolov5m.pt --name yolov5s_results
